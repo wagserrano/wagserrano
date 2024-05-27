@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wagserrano, a developer.
-- 👀 I’m interested in programming, backend, frontend, fullstack and DevOps matters. I'm fluent in English and French and Germany student.
+- 👀 I’m interested in programming, backend, frontend, fullstack and DevOps matters. I'm fluent in English and French and Spanish and German student.
 - 🌱 I'm sharing a bit of my skils. I'm  have been improving my backend skills (from .NetCore) and my frontend skills (from Angular 2+ - currently Angular 13) ...
 - 💞️ I’m looking to collaborate on fullstack development...
 - 📫 How to reach me by e-mail: serranodevops@gmail.com
